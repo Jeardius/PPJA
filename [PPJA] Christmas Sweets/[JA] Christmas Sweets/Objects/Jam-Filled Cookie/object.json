@@ -29,7 +29,7 @@
         },],
     },
     "GiftTastes":
-    {        
+    {
 	"Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
         "Dislike": ["Harvey", "Krobus", "Leah", "Willy"],
     },
@@ -37,7 +37,7 @@
     {
         // "es": "",
         // "ko": "",
-        // "de": "",
+         "de": "Mit Marmelade gefüllter Keks",
         // "fr": "",
         // "hu": "",
         // "it": "",
@@ -51,7 +51,7 @@
     {
         // "es": "",
         // "ko": "",
-        // "de": "",
+         "de": "Ein harter Keks gefüllt mit leckerer Marmelade.",
         // "fr": "",
         // "hu": "",
         // "it": "",

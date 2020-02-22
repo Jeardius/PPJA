@@ -34,14 +34,14 @@
 "IsDefault": true,
     },
     "GiftTastes":
-    {        
+    {
         "Dislike": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "George", "Gus", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Wizard", "Abigail", "Haley", "Maru", "Sebastian", "Evelyn", "Emily", "Krobus", "Willy"],
     },
     "NameLocalization":
     {
         // "es": "",
         // "ko": "",
-        // "de": "",
+         "de": "Fruchtkuchen",
         // "fr": "",
         // "hu": "",
         // "it": "",
@@ -55,7 +55,7 @@
     {
         // "es": "",
         // "ko": "",
-        // "de": "",
+         "de": "Das schlimmste Geschenk ist ein Obstkuchen. Es gibt nur einen Obstkuchen auf der ganzen Welt, und die Leute schicken ihn sich gegenseitig.",
         // "fr": "",
         // "hu": "",
         // "it": "",

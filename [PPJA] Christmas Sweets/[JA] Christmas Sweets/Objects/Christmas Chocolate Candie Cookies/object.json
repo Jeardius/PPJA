@@ -30,7 +30,7 @@
 "IsDefault": true,
     },
     "GiftTastes":
-    {        
+    {
 	"Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
         "Dislike": ["Harvey", "Krobus", "Leah", "Willy"],
     },
@@ -38,7 +38,7 @@
     {
         // "es": "",
         // "ko": "",
-        // "de": "",
+         "de": "Weihnachts-Pralinenplätzchen",
         // "fr": "",
         // "hu": "",
         // "it": "",
@@ -52,7 +52,7 @@
     {
         // "es": "",
         // "ko": "",
-        // "de": "",
+         "de": "Sehr zähe Kekse mit Schokoladenstücken.",
         // "fr": "",
         // "hu": "",
         // "it": "",

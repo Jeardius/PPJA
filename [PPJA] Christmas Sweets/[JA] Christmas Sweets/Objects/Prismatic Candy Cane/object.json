@@ -1,6 +1,6 @@
 {
     "Name": "Prismatic Candy Cane",
-    "Description": "No prismatic shards were harmed in the making of this candy cane.",
+    "Description": "Bei der Herstellung dieser Zuckerstange wurden keine prismatischen Scherben verletzt.",
     "Category": "Cooking",
     "Edibility": 48,
     "EdibleIsDrink": false,
@@ -10,7 +10,7 @@
     "Recipe":
     {
         "ResultCount": 1,
-        "Ingredients": [        
+        "Ingredients": [
         {
             "Object": "Peppermints",
             "Count": 1,
@@ -29,14 +29,14 @@
         },],"IsDefault": true,
     },
     "GiftTastes":
-    {        
+    {
         "Dislike": ["Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "George", "Gus", "Harvey", "Jas", "Jodi", "Kent", "Leah", "Lewis", "Linus", "Marnie", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Shane", "Vincent", "Wizard", "Abigail", "Haley", "Maru", "Sebastian", "Evelyn", "Emily", "Krobus", "Willy"],
     },
     "NameLocalization":
     {
         // "es": "",
         // "ko": "",
-        // "de": "",
+         "de": "Prismatische Zuckerstange",
         // "fr": "",
         // "hu": "",
         // "it": "",
@@ -50,7 +50,7 @@
     {
         // "es": "",
         // "ko": "",
-        // "de": "",
+         "de": "Bei der Herstellung dieser Zuckerstange wurden keine prismatischen Scherben verletzt.",
         // "fr": "",
         // "hu": "",
         // "it": "",

@@ -25,7 +25,7 @@
         },],
     },
     "GiftTastes":
-    {        
+    {
 	"Like": ["Abigail", "Alex", "Caroline", "Clint", "Demetrius", "Dwarf", "Elliott", "Emily", "Evelyn", "George", "Gus", "Haley", "Jas", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Maru", "Pam", "Penny", "Pierre", "Robin", "Sam", "Sandy", "Sebastian", "Shane", "Vincent", "Wizard"],
         "Dislike": ["Harvey", "Krobus", "Leah", "Willy"],
     },
@@ -33,7 +33,7 @@
     {
         // "es": "",
         // "ko": "",
-        // "de": "",
+         "de": "Schneemann Landschaftsplätzchen",
         // "fr": "",
         // "hu": "",
         // "it": "",
@@ -47,7 +47,7 @@
     {
         // "es": "",
         // "ko": "",
-        // "de": "",
+         "de": "Ein harter Keks, der mit einer Winterlandschaft verziert wird.",
         // "fr": "",
         // "hu": "",
         // "it": "",
